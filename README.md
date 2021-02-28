@@ -62,4 +62,4 @@ Schedule Job run
 Email notifications
 Cucumber Reports 
 Serenity reports
-Etc..
+Etc.,
